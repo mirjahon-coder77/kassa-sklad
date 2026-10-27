@@ -1,0 +1,6 @@
+{
+  "name": "Dunyo Women Shop - POS & Sklad Tizimi",
+  "description": "Dunyo Women Shop ayollar kiyimi, parfumeriya va aksessuarlar do'koni uchun kassa, sklad hisobi, etiketka chop etish va boshqaruv tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
